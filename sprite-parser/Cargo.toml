@@ -3,11 +3,7 @@ name = "sprite-parser"
 version = "0.1.0"
 authors = ["fwtn <fwtn+git@fireturtle.net>"]
 edition = "2018"
-[workspace]
-members = ["viewer"]
-
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
